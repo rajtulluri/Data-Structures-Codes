@@ -15,4 +15,7 @@ The type of codes are given below :-
 12. Doubly Linked List functions
 13. Circular Doubly Linked List
 14. Polynomial arithmetic using Linked Lists
-15. 
+15. Binary Search Tree
+16. Equality check between two trees
+17. Threaded Binary tree
+
